@@ -1,3 +1,12 @@
- #A00446961
+#A00444857
+Public float addition(int a,int b){
+return(a/b);
+}
+#A00442434
+Public int mod (int a, int b) {
+
+	return a%b;
+}
+#A00446961
 Public int max (int a, int b) {
 return math.max(a,b); }
