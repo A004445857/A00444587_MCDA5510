@@ -2,3 +2,8 @@
 Public float addition(int a,int b){
 return(a/b);
 }
+#A00442434
+Public int mod (int a, int b) {
+
+	return a%b;
+}
